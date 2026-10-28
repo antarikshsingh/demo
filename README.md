@@ -1,2 +1,1 @@
-# Demo Git Repository 
-This is a dummy repository for practicing Git operations. 
+This is my dummy Git repository 
